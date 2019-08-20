@@ -1,0 +1,7 @@
+<?php
+  $config['accessKey'] = null;
+	$config['secretKey'] = null;
+	$config['useSSL'] = false;
+	$config['endpoint'] = 's3.amazonaws.com';
+	$config['region'] = 'us-east-1';
+?>
