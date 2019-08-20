@@ -1,0 +1,11 @@
+untuk merubah ke mysql
+
+1. buka folder application di dalam folder ciadminlte
+2. kemudian buka folder config
+3. kemudian buka file database.php
+4. kemudian cari dbdriver
+5. ganti tulisan mysqli ke mysql
+
+contoh :
+
+'dbdriver' => 'mysqli'      --> MENJADI 'dbdriver' => 'mysql'
